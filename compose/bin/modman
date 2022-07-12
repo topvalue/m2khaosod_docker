@@ -48,6 +48,8 @@ modman clone git@github.com:topvalue/m2khaosod_khaosod-script.git
 modman clone git@github.com:topvalue/m2khaosod_promo-banners.git
 modman clone git@github.com:topvalue/m2khaosod_shipping-table-rates.git
 modman clone git@github.com:topvalue/m2khaosod_smtp.git
+modman clone git@github.com:topvalue/m2khaosod_onestep-checkout.git
+
 
 cd ..
 # bin/clinotty bin/magento setup:upgrade
